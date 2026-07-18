@@ -36,3 +36,5 @@ cheap-llm-api-proxy,免费AI中转,低价AI API,白送AI API,免费GPT,GPT,Claud
 ## 免责声明
 
 本仓库仅为 AI API 中转和模型访问路线的信息导航，不提供官方模型服务，也不承诺第三方服务的免费额度、价格、稳定性、隐私政策或长期可用性。使用任何中转服务前，请自行核验服务条款、价格、额度和数据安全边界。
+
+- [JiuRelay](https://jiurelay.com/) - Free AI API relay for GPT, Claude, GLM. No registration required, 1-hour valid key, OpenAI/Anthropic compatible.
